@@ -1,2 +1,1 @@
-# instbruteforce
-İnstagram Fetih Tim Brute Force
+Gladiator tarafından hazırlanmıştır. Türkçe wordlistli  İnstagram Brute Force
